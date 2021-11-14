@@ -1,5 +1,5 @@
 # DOGE-M - Doge Miner CPU AND GPU Windows x64
-# Compatiablility: AMD, Intel, Nvidia, and AMD GPU<br />With CUDA AND OPENCL
+# Compatability: Windows x64 AMD, Intel, Nvidia, and AMD GPU<br />With CUDA AND OPENCL
 Run Run.cmd, Type in your DOGE Wallet Address and Mine in Seconds<br /><br />
 Select GPU or CPU and the software will automatically detect your hardware and start mining cryptocurrency to DOGECOIN.<br />
 GPU Coming Soon...<br /><br />
