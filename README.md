@@ -1,6 +1,6 @@
 # DOGE-M - Doge Miner CPU AND GPU Windows x64
 # Compatibility: AMD, Intel, Nvidia, and AMD GPU
-# With CUDA AND OPENCL
+With CUDA AND OPENCL
 # [DOGE-CPU-MINER DOWNLOAD](https://github.com/RobertJamesKarash/DOGE-M/files/7533531/DOGEMCPU.zip) 
 <br />GPU Support Coming Soon...<br /><br />
 # Prerequisites (Microsoft C++ Redistributable x64):
