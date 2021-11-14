@@ -1,2 +1,1 @@
-# DOGE-M
-Doge Miner CPU AND GPU Windows x64
+# DOGE-M - Doge Miner CPU AND GPU Windows x64
