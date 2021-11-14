@@ -2,7 +2,7 @@
 Compatibility: AMD, Intel, Nvidia, and AMD GPU
 With CUDA AND OPENCL <br />
 # Download:
-[DOGE-CPU-MINER DOWNLOAD](https://github.com/RobertJamesKarash/DOGE-M/files/7533531/DOGEMCPU.zip) 
+[DOGE CPU MINER DOWNLOAD](https://github.com/RobertJamesKarash/DOGE-M/files/7533531/DOGEMCPU.zip) 
 <br />GPU Support Coming Soon...<br /><br />
 # Prerequisites (Microsoft C++ Redistributable x64):
 https://aka.ms/vs/17/release/vc_redist.x64.exe <br /><br />
