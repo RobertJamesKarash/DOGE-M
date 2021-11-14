@@ -3,7 +3,7 @@
 # With CUDA AND OPENCL
 [DOGE-CPU-MINER DOWNLOAD](https://github.com/RobertJamesKarash/DOGE-M/files/7533531/DOGEMCPU.zip) 
 <br />GPU Support Coming Soon...<br /><br />
-Run Run.cmd, Type in your DOGE Wallet Address and Mine in Seconds<br /><br />
+Run Run.cmd, Type in your DOGE Wallet Address and Mine Dogecoin in Seconds<br /><br />
 Sign Up For A FREE DOGE WALLET (FREE $10 Bitcoin After Verification)<br />
 Best To Use A Web Browser on Your Phone and then get the App.<br />
 Accepts PayPal, Debit Card and Bank Account<br />
