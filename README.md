@@ -2,5 +2,5 @@
 # Compatiablility: AMD, Intel, Nvidia, and AMD GPU with OPENCL
 Run Run.cmd, Type in your DOGE Wallet Address and Mine in Seconds<br /><br />
 
-Sign Up For A DOGE WALLET (FREE $10 Bitcoin After Verification) <br />
+Sign Up For A FREE DOGE WALLET (FREE $10 Bitcoin After Verification, Best To Use A Web Browser on Your Phone) <br />
 https://www.coinbase.com/join/karash_x1
