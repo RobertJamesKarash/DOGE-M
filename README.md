@@ -5,6 +5,6 @@ Select GPU or CPU and the software will automatically detect your hardware and s
 GPU Coming Soon...<br /><br />
 Sign Up For A FREE DOGE WALLET (FREE $10 Bitcoin After Verification)<br />
 Best To Use A Web Browser on Your Phone and then get the App.<br />
-Accepts PayPal, Debit Card Bank Account <br />
+Accepts PayPal, Debit Card and Bank Account <br />
 Proof of Address and ID Required.<br />
 https://www.coinbase.com/join/karash_x1
